@@ -1,27 +1,30 @@
+<!-- Banner -->
+<p align="center">
+  <img src="assets/banner.png" alt="Karic Pineda - QA Engineer" width="800"/>
+</p>
 
-# 👋 ¡Hola! Soy Karic Pineda Hernández
+## 👋 Hola, soy Karic Katherine Pineda Hernández
 
-Soy QA Engineer con formación en aseguramiento de la calidad y experiencia práctica en pruebas manuales (exploratorias, de interfaz, funcionales) y pruebas automatizadas con Selenium y Python.  
-He validado aplicaciones móviles y web en proyectos como **Urban Scooter**, **Urban Routes** y **Urban.Lunch**, abordando desde la interfaz hasta el backend, API y base de datos.
+Soy QA Engineer y Técnica en Administración con experiencia en pruebas manuales y automatización. He trabajado en proyectos como **Urban Scooter** y **Urban.Lunch**, usando Postman, Selenium, Bash y PostgreSQL.
 
----
+### 🧰 Stack técnico
+- **Lenguajes**: Python  
+- **Testing**: Postman, Selenium  
+- **Bases de datos**: PostgreSQL  
+- **Control de versiones**: Git / GitHub  
+- **Otras herramientas**: Jira, Bash, Scrum/Kanban
 
-### 🧰 Tech Stack:
-- **Lenguajes:** Python  
-- **Pruebas:** Selenium · Postman · Pruebas exploratorias · Pruebas de API  
-- **Bases de datos:** PostgreSQL · SQL  
-- **Herramientas:** Jira · Git · GitHub · Bash  
-- **Metodologías:** Scrum · Kanban
+### 📂 Proyectos destacados
+- Urban Scooter – Validación funcional, UI y API  
+- Urban.Lunch – Testing integral del flujo de pedidos móviles  
+- Manejo de kits y servicios de entrega – QA backend e integración  
+- Consultas base de datos y análisis de logs con Bash y PostgreSQL
 
----
+### 💼 Formación
+- Técnica en Administración  
+- Certificación QA Engineer (TripleTen LatAm)
 
-### 🚀 Proyectos destacados:
-- 🛵 Urban Scooter – Validación completa de app móvil, formulario de pedido y API REST  
-- 🥡 Urban.Lunch – Testing de flujo completo en app móvil para pedidos de comida  
-- ⚙️ Urban Routes – Validación UI/UX, métodos de pago y lógica de reserva  
-- 📊 Análisis con Bash y PostgreSQL – Consultas SQL con relaciones JOIN y validación de registros
 
----
 
 ### 📫 Conecta conmigo:
 - [📍 LinkedIn](https://www.linkedin.com/in/karic-pineda-peru)
